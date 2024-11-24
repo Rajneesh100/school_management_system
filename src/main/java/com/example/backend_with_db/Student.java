@@ -36,7 +36,7 @@ public class Student {
 
 
 public String sayhi(){
-    return "hi";
+    return "hiweff";
 }
 
 
